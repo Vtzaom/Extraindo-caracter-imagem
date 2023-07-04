@@ -1,0 +1,9 @@
+Nomes e palavras reservadas em progranas têm padrõés similares. Apesar de
+ser-possível construir um diagrama de estados para reconhecer-cadá palavra,
+reservada especifica de uma Hnguagzein de programação, 1sso resultaria-em um
+diagrama de estado» proibinivamente grande. E muito mais simples e rápido
+fazer com que o unabsador léxico reconheça només e palavras reservadas com
+
+e mesino padrão e use ama consulta em ums tabela de palavras reservados
+para determinar que nomes são palavras reservadas. O uso dessw abordagem
+considera as palavras reservadas exceções na categona de nomes de tobens..

@@ -1,0 +1,8 @@
+Nomes e palavras reservadas em programas têm padrões similares. Apesar de
+ser possível construir um diagrama de estados para reconhecer cada palavra
+reservada específica de uma linguagem de programação, isso resultaria em um
+diagrama de estados proibitivamente grande. É muito mais simples e rápido
+fazer com que o analisador léxico reconheça nomes e palavras reservadas com
+o mesmo padrão e use uma consulta em uma tabela de palavras reservadas
+para determinar que nomes são palavras reservadas. O uso dessa abordagem
+considera as palavras reservadas exceções na categoria de nomes de tokens.
